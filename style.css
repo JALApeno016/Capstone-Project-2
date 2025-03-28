@@ -1,0 +1,25 @@
+.profile-img {
+    height: 500px;
+    border-radius: 50%;
+  }
+
+.bg-color {
+    background-color: #FFEDFA;
+}
+  
+#top {
+    background-color: #FFB8E0;
+}
+
+
+#bottom {
+    background-color: #EC7FA9;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #FFB8E0;
+  }
+
